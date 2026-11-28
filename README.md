@@ -1,6 +1,6 @@
-# sizovaholdings.com.mv
+
 moving forward
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
